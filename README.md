@@ -3,7 +3,10 @@
 Sohail Ahmad, Tanmim Ahmmed, Uzma Kapadia
 
 ## Table of Contents
+- [Overview](#overview)
 - [The Problem](#the_problem)
+- [Dataset](#dataset)
+- [Project Goals](#project-goals)
 
 ## Overview
 This project focuses on preventing and preparing for traffic accidents by analyzing various driving conditions.
