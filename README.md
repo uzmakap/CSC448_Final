@@ -3,7 +3,7 @@
 Sohail Ahmad, Tanmim Ahmmed, Uzma Kapadia
 
 ## Table of Contents
-- [The Problem](#the Problem)
+- [The Problem](#the_problem)
 
 
 ## The Problem
