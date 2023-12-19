@@ -1,15 +1,16 @@
 # CSC448 Final - Accidents Prevention & Preparation
 
 Sohail Ahmad, Tanmim Ahmmed, Uzma Kapadia
+This project focuses on preventing and preparing for traffic accidents by analyzing various driving conditions.
 
 ## Table of Contents
-- [Overview](#overview)
 - [The Problem](#the_problem)
 - [Dataset](#dataset)
-- [Project Goals](#project-goals)
-
-## Overview
-This project focuses on preventing and preparing for traffic accidents by analyzing various driving conditions.
+- [Project Goals and Accomplishments](#project-goals-and-accomplishments)
+- [Project Organization](#project-organization)
+- [Tanmim's code](#tanmim's-code)
+- [Sohails's code](#sohail's-code)
+- [Uzma's code](#uzma's-code)
 
 ## The Problem
 - Given different driving conditions such as the traffic, location or the time/season, it can impact the accident statistics and often increase it
