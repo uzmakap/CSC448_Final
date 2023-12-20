@@ -28,20 +28,53 @@ This project focuses on preventing and preparing for traffic accidents by analyz
 ## Project Goals and Accomplishments
 The aim of this project is to develop a model for predicting accident likelihood based on region, time, or season to enhance public safety and city planning strategies.
 
-We hope to accomplish this by:
+We accomplished this by:
 - creating a trained model using the dataset
 - Using the model to predict numbers of accidents likely to happen based on a given region, time or season
 - Expected outcomes include improved emergency response times and strategies to reduce accidents
 
 ## Project Organization
-- View the [final scripts](#) for this project
+- View the [final scripts](https://github.com/uzmakap/CSC448_Final/blob/main/Code/Accident_Analysis.ipynb) for this project
 - Libraries used for this project include:
+
+### Data Manipulation and Analysis
+- **NumPy** (`numpy`): A fundamental package for scientific computing in Python.
+- **Pandas** (`pandas`): A powerful data analysis and manipulation library for Python.
+
+### Data Visualization
+- **Matplotlib** (`matplotlib.pyplot`): A comprehensive library for creating static, animated, and interactive visualizations in Python.
+- **Seaborn** (`seaborn`): A Python visualization library based on Matplotlib that provides a high-level interface for drawing attractive and informative statistical graphics.
+- **Folium** (`folium`, `folium.plugins.MarkerCluster`): A Python library used for visualizing geospatial data.
+
+### Interactive Python Display
+- **IPython** (`IPython.display.IFrame`): An interactive computing environment for writing and running Python code.
+
+### Machine Learning
+- **Scikit-learn** (`sklearn`):
+  - Model Selection (`sklearn.model_selection.train_test_split`)
+  - Linear Models (`sklearn.linear_model.LinearRegression`, `sklearn.linear_model.LogisticRegression`, `sklearn.linear_model.Perceptron`, `sklearn.linear_model.SGDClassifier`)
+  - Tree Models (`sklearn.tree.DecisionTreeRegressor`, `sklearn.tree.DecisionTreeClassifier`)
+  - Ensemble Models (`sklearn.ensemble.RandomForestClassifier`)
+  - Support Vector Machines (`sklearn.svm.SVC`, `sklearn.svm.LinearSVC`)
+  - Neighbors (`sklearn.neighbors.KNeighborsClassifier`)
+  - Naive Bayes (`sklearn.naive_bayes.GaussianNB`)
+  - Metrics (`sklearn.metrics.mean_squared_error`, `sklearn.metrics.r2_score`, `sklearn.metrics.accuracy_score`, `sklearn.metrics.classification_report`)
+  - Preprocessing (`sklearn.preprocessing.StandardScaler`)
+
+
+## Instructions to run
+1. Download a CSV of the dataset.  [NYC Open Data portal for Motor Vehicle Collisions](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
+2. Clone this project repository
+3. Set up a venv and install the python packages listed in "requirements.txt" in the [Code Folder](https://github.com/uzmakap/CSC448_Final/tree/main/Code)
+4. Run Accident_Analysis.ipynb file in the [Code Folder](https://github.com/uzmakap/CSC448_Final/tree/main/Code)
+5. Run the cells to see the results.
+
 
 ## Tanmim's Contributions
 - Click here to see [Tanmim's code](https://github.com/uzmakap/CSC448_Final/blob/main/Code/Team%20Contributions/Tanmim/Accident_Visualization_Tanmim_Contribution.ipynb)
 
 ## Sohail's Contributions
-- Click here to see [Sohail's code](#)
+- Click here to see [Sohail's code](https://github.com/uzmakap/CSC448_Final/blob/main/Code/Team%20Contributions/Sohail/Sohail_contributions.ipynb)
 
 ## Uzma's Contributions
-- Click here to see [Uzma's code](#)
+- Click here to see [Uzma's code](https://github.com/uzmakap/CSC448_Final/blob/main/Code/Team%20Contributions/Uzma/Uzma_Contributions.ipynb)
