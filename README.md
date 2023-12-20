@@ -8,7 +8,7 @@ This project focuses on preventing and preparing for traffic accidents by analyz
 - [The Problem](#the-problem)
 - [Dataset](#dataset)
 - [Project Goals and Accomplishments](#project-goals-and-accomplishments)
-- [Project Organization](#project-organization)
+- [Project Organization](#project-organization) (final code link included here)
 - [Tanmim's Contributions](#tanmim's-contributions)
 - [Sohails's Contributions](#sohail's-contributions)
 - [Uzma's Contributions](#uzma's-contributions)
@@ -36,6 +36,8 @@ We accomplished this by:
 
 ## Project Organization
 - View the [final scripts](https://github.com/uzmakap/CSC448_Final/blob/main/Code/Accident_Analysis.ipynb) for this project
+- View the [report](https://github.com/uzmakap/CSC448_Final/blob/main/Project%20Report/CSC448%20final%20report%20Group%206.pdf) for this project to get more in-depths about the model results and visualization analysis
+  
 - Libraries used for this project include:
 
 ### Data Manipulation and Analysis
@@ -69,7 +71,7 @@ We accomplished this by:
 3. Set up a venv and install the python packages listed in "requirements.txt" in the [Code Folder](https://github.com/uzmakap/CSC448_Final/tree/main/Code)
 4. Run Accident_Analysis.ipynb file in the [Code Folder](https://github.com/uzmakap/CSC448_Final/tree/main/Code)
 5. Run the cells to see the results.
-6. To view the interactive map with the accident hotspots run the [top accident locations map]() html file
+6. To view the interactive map with the accident hotspots run the [top accident locations map](https://github.com/uzmakap/CSC448_Final/blob/main/Code/top_accident_locations_map.html) html file from the downloaded project repository
 
 
 ## Tanmim's Contributions
