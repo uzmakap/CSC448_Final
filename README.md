@@ -1,10 +1,11 @@
 # CSC448 Final - Accidents Prevention & Preparation
 
 Sohail Ahmad, Tanmim Ahmmed, Uzma Kapadia
+
 This project focuses on preventing and preparing for traffic accidents by analyzing various driving conditions.
 
 ## Table of Contents
-- [The Problem](#the_problem)
+- [The Problem](#the-problem)
 - [Dataset](#dataset)
 - [Project Goals and Accomplishments](#project-goals-and-accomplishments)
 - [Project Organization](#project-organization)
@@ -30,7 +31,7 @@ The aim of this project is to develop a model for predicting accident likelihood
 
 We accomplished this by:
 - creating a trained model using the dataset
-- Using the model to predict numbers of accidents likely to happen based on a given region, time or season
+- Using the model to predict accidents likely to happen based on a given region, day and time
 - Expected outcomes include improved emergency response times and strategies to reduce accidents
 
 ## Project Organization
@@ -68,6 +69,7 @@ We accomplished this by:
 3. Set up a venv and install the python packages listed in "requirements.txt" in the [Code Folder](https://github.com/uzmakap/CSC448_Final/tree/main/Code)
 4. Run Accident_Analysis.ipynb file in the [Code Folder](https://github.com/uzmakap/CSC448_Final/tree/main/Code)
 5. Run the cells to see the results.
+6. To view the interactive map with the accident hotspots run the [top accident locations map]() html file
 
 
 ## Tanmim's Contributions
