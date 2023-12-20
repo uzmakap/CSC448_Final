@@ -5,3 +5,13 @@ seaborn
 ipython
 folium
 scikit-learn
+
+For Jupyter Notebook 
+**********************
+%pip install numpy
+%pip install pandas
+%pip install matplotlib
+%pip install seaborn
+%pip install ipython
+%pip install folium
+%pip install scikit-learn
